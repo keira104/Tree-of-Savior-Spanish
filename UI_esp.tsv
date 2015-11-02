@@ -269,96 +269,96 @@ UI_20150317_000268
 UI_20150317_000269	
 UI_20150317_000270	
 UI_20150317_000271	
-UI_20150317_000272	
-UI_20150317_000273	
-UI_20150317_000274	
-UI_20150317_000275	
-UI_20150317_000276	
-UI_20150317_000277	
-UI_20150317_000278	
-UI_20150317_000279	
-UI_20150317_000280	
-UI_20150317_000281	
-UI_20150317_000282	
-UI_20150317_000283	
-UI_20150317_000284	
-UI_20150317_000285	
-UI_20150317_000286	
-UI_20150317_000287	
-UI_20150317_000288	
-UI_20150317_000289	
-UI_20150317_000290	
-UI_20150317_000291	
-UI_20150317_000292	
-UI_20150317_000293	
-UI_20150317_000294	
-UI_20150317_000295	
-UI_20150317_000296	
-UI_20150317_000297	
-UI_20150317_000298	
-UI_20150317_000299	
-UI_20150317_000300	
-UI_20150317_000301	
-UI_20150317_000302	
-UI_20150317_000303	
-UI_20150317_000304	
-UI_20150317_000305	
-UI_20150317_000306	
-UI_20150317_000307	
-UI_20150317_000308	
-UI_20150317_000309	
-UI_20150317_000310	
-UI_20150317_000311	
-UI_20150317_000312	
-UI_20150317_000313	
-UI_20150317_000314	
-UI_20150317_000315	
-UI_20150317_000316	
-UI_20150317_000317	
-UI_20150317_000318	
-UI_20150317_000319	
-UI_20150317_000320	
-UI_20150317_000321	
-UI_20150317_000322	
-UI_20150317_000323	
-UI_20150317_000324	
-UI_20150317_000325	
-UI_20150317_000326	
-UI_20150317_000327	
-UI_20150317_000328	
-UI_20150317_000329	
-UI_20150317_000330	
-UI_20150317_000331	
-UI_20150317_000332	
-UI_20150317_000333	
-UI_20150317_000334	
-UI_20150317_000335	
-UI_20150317_000336	
-UI_20150317_000337	
-UI_20150317_000338	
-UI_20150317_000339	
-UI_20150317_000340	
-UI_20150317_000341	
-UI_20150317_000342	
-UI_20150317_000343	
-UI_20150317_000344	
-UI_20150317_000345	
-UI_20150317_000346	
-UI_20150317_000347	
-UI_20150317_000348	
-UI_20150317_000349	
-UI_20150317_000350	
-UI_20150317_000351	
-UI_20150317_000352	
-UI_20150317_000353	
-UI_20150317_000354	
-UI_20150317_000355	
-UI_20150317_000356	
-UI_20150317_000357	
-UI_20150317_000358	
-UI_20150317_000359	
-UI_20150317_000360	
-UI_20150317_000361	
+UI_20150317_000272	{@st59}Manos{/} /////Uso Manos, Pies, Piernas, etc. porque por ejemplo no todo el calzado serán botas, puede haber zapatos, sandalias, grebas...
+UI_20150317_000273	{@st59}Piernas{/}
+UI_20150317_000274	{@st59}Pies{/}
+UI_20150317_000275	{@st59}Mano Izquierda{/}
+UI_20150317_000276	{@st59}Mano Derecha{/}
+UI_20150317_000277	{@st59}Brazalete 1{/}
+UI_20150317_000278	{@st59}Brazalete 2{/}
+UI_20150317_000279	{@st59}Brazal{/} /////Sé que se parece demasiado a Brazalete, pero es la única traducción posible de Armband.
+UI_20150317_000280	{@st59}Buscar{/}
+UI_20150317_000281	Peso
+UI_20150317_000282	{memo X}{@st43}Mejora del Equipo{/}
+UI_20150317_000283	{@st59}Cerrar la ventana de Reparación de Objeto{/}
+UI_20150317_000284	{memo X}{@st42}Disponible para Mejora /////Como traducimos Buff?
+UI_20150317_000285	{memo X}{@st42}Consumir{/}
+UI_20150317_000286	{memo X}{@st42}Correr
+UI_20150317_000287	{memo X}{@st42}Objetivo{/}
+UI_20150317_000288	{@st59}Anillo 1{/}
+UI_20150317_000289	{@st43}Creación de Objeto{/}
+UI_20150317_000290	{@st42b}Mostrar sólo objetos disponibles{/} /////No existe palabra posible para craftable
+UI_20150317_000291	{@st59}Cerrar la ventana de Creación de Objeto{/}
+UI_20150317_000292	{@st43}{s22}Separar Objeto
+UI_20150317_000293	{@st59}Introducir una cantidad{/}
+UI_20150317_000294	Barra de PV del Enemigo
+UI_20150317_000295	{@st44}Objeto de Set adquirido{/}
+UI_20150317_000296	Guerrero del Teclado  /////WTF?
+UI_20150317_000297	Muertes
+UI_20150317_000298	99 minutos 99 segundos
+UI_20150317_000299	38000 puntos
+UI_20150317_000300	Poción de Velocidad Mejorada
+UI_20150317_000301	{@st41}Confirmar{/}
+UI_20150317_000302	${@st59b} Diario de Aventura {nl}{@st59s}- Tu progeso en el juego se guarda en el Diario de Aventura. {nl} - Puedes aumentar tu Índice de Aventura a través de acciones como: obtener objetos, matar enemigos, crear objetos y explorar los mapas.{nl}    Índice de Aventura : El total de todos tus índices. {nl}    Crecimiento : 5 puntos por nivel de personaje y nivel de clase {nl}    Objetos : Equipo : grado X 10 puntos, Libros : 10 puntos, Otros : 1 punto {nl}    Enemigos : 10 puntos por enemigo (50 puntos por cada Jefe) {nl}    Mapas : 1 punto por cada 10% explorado {nl}    Misiones : 1 punto por misión {nl}    Logros : Depende del logro {nl}    Creación de Objetos : 10 puntos {nl}    Colección : 5 puntos por baraja y 45 puntos cuando es completada {nl} - Puedes recibir recompensas especiales de PNJ en los pueblos dependiendo de tu Índice de Aventura. {/}
+UI_20150317_000303	{@sti7}{s22}{ds}Logros{/}
+UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Puntos{/}
+UI_20150317_000305	{@st42b} Media / %s Puntos {/}
+UI_20150317_000306	1ro / %s Puntos
+UI_20150317_000307	Rango %s
+UI_20150317_000308	%s Puntos
+UI_20150317_000309	Profesión
+UI_20150317_000310	Equipo
+UI_20150317_000311	{@st59}Cerrar Diario de Aventura{/}
+UI_20150317_000312	{@st43}Ranking de Diario de Aventura{/}
+UI_20150317_000313	{@st43}{s22}Rango   
+UI_20150317_000314	{@st43}{s22}Nombre
+UI_20150317_000315	{@st43}{s22}Puntuación
+UI_20150317_000316	{@st41}Detalles{/}
+UI_20150317_000317	{@st43}Empezar la Creación{/}
+UI_20150317_000318	{@st59}Empezar la Creación de Objeto.{/}
+UI_20150317_000319	{@st44}Teclado{/}
+UI_20150317_000320	{@st42}Tiempo límite
+UI_20150317_000321	{@st56}Muerte{/}
+UI_20150317_000322	{@st56}Overkill{/} /////Rebasar? Exceso? No tengo idea.
+UI_20150317_000323	{@st56}Disparo{/}
+UI_20150317_000324	{@st56}Muerto{/}
+UI_20150317_000325	Poder de Hechizo
+UI_20150317_000326	Defensa
+UI_20150317_000327	Resistencia Mágica
+UI_20150317_000328	Prob. de Crítico   /////Mejor Probabilidad de Crítico que Índice de Crítico no?
+UI_20150317_000329	${@st43}Ranura{/}
+UI_20150317_000330	{@st59}Cerrar Gestión de Ranuras{/}
+UI_20150317_000331	Porfavor introduce tus objetos
+UI_20150317_000332	Potencial
+UI_20150317_000333	{memo X}Coste de Ranura adicional : {#ff9933}%s{/}{nl}Coste de extracción de Gema : {#ff9933}%s{/}
+UI_20150317_000334	{@st41b}Añadir Ranura
+UI_20150317_000335	{@st41b}Extraer Gema
+UI_20150317_000336	{@st41}Crear{/}
+UI_20150317_000337	{@st41}%s %s ea
+UI_20150317_000338	Mapa del Área
+UI_20150317_000339	{memo X}Área Explorada : 95.5%
+UI_20150317_000340	{memo X}{@st45tw}Área Explorada %s% {/}
+UI_20150317_000341	{@st59}Cerrar el Mapa (M){/}
+UI_20150317_000342	{@st41}Mapa{/}
+UI_20150317_000343	Shift(clear), Ctrl(mid fill)  /////What?
+UI_20150317_000344	{ol}Título
+UI_20150317_000345	{@st41}Añadir{/}
+UI_20150317_000346	{@st41}Eliminar{/}
+UI_20150317_000347	{@st41}Guardar{/}
+UI_20150317_000348	{@st41}Auto{/}
+UI_20150317_000349	{@st41}Restaurar{/}
+UI_20150317_000350	{@st59}Fijar cantidad.{/}
+UI_20150317_000351	{ol}Grupo
+UI_20150317_000352	{ol}Mensaje
+UI_20150317_000353	{ol}Sonido
+UI_20150317_000354	{@st41}Crear Minimapa{/}
+UI_20150317_000355	{@st55}Mapa del Área
+UI_20150317_000356	{@st43}{s22}Mercado{/}
+UI_20150317_000357	{@st43}{s24}Mercado{/}
+UI_20150317_000358	{@st42b}Filtro{/}
+UI_20150317_000359	{@st42b}Tipo{/}
+UI_20150317_000360	{@st42b}Nv. Req.{/}
+UI_20150317_000361	{@st42b}Nv. Mejora{/}	
 UI_20150317_000362	
 UI_20150317_000363	
 UI_20150317_000364	
