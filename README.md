@@ -7,7 +7,7 @@ Now translating: User Interface file. (UI_esp.tsv) <br>
 2° file - Marin - Status: Not finished.<br>
 3° file - Maria - Status: Not finihsed <br>
 4° file - Faerie - Status: Not finished <br>
-5° file - Status: Not taken <br>
+5° file - Geraru - Status: Not finished <br>
 6° file - Status: Not taken <br>
 7° file - Status: Not taken <br>
 8° file - Status: Not taken <br>
