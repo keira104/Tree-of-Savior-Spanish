@@ -287,13 +287,13 @@ UI_20150317_000286	{memo X}{@st42}Correr
 UI_20150317_000287	{memo X}{@st42}Objetivo{/}
 UI_20150317_000288	{@st59}Anillo 1{/}
 UI_20150317_000289	{@st43}Creación de Objeto{/}
-UI_20150317_000290	{@st42b}Mostrar sólo objetos disponibles{/} /////No existe palabra posible para craftable
+UI_20150317_000290	{@st42b}Mostrar sólo objetos disponibles{/}
 UI_20150317_000291	{@st59}Cerrar la ventana de Creación de Objeto{/}
 UI_20150317_000292	{@st43}{s22}Separar Objeto
 UI_20150317_000293	{@st59}Introducir una cantidad{/}
 UI_20150317_000294	Barra de HP del Enemigo
 UI_20150317_000295	{@st44}Objeto de Set adquirido{/}
-UI_20150317_000296	Guerrero del Teclado  /////WTF?
+UI_20150317_000296	Guerrero del Teclado
 UI_20150317_000297	Muertes
 UI_20150317_000298	99 minutos 99 segundos
 UI_20150317_000299	38000 puntos
@@ -340,7 +340,7 @@ UI_20150317_000339	{memo X}Área Explorada : 95.5%
 UI_20150317_000340	{memo X}{@st45tw}Área Explorada %s% {/}
 UI_20150317_000341	{@st59}Cerrar el Mapa (M){/}
 UI_20150317_000342	{@st41}Mapa{/}
-UI_20150317_000343	Shift(clear), Ctrl(mid fill)  /////What?
+UI_20150317_000343	Shift(clear), Ctrl(mid fill)
 UI_20150317_000344	{ol}Título
 UI_20150317_000345	{@st41}Añadir{/}
 UI_20150317_000346	{@st41}Eliminar{/}
