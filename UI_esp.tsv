@@ -269,19 +269,19 @@ UI_20150317_000268
 UI_20150317_000269	
 UI_20150317_000270	
 UI_20150317_000271	
-UI_20150317_000272	{@st59}Manos{/} /////Uso Manos, Pies, Piernas, etc. porque por ejemplo no todo el calzado serán botas, puede haber zapatos, sandalias, grebas...
-UI_20150317_000273	{@st59}Piernas{/}
-UI_20150317_000274	{@st59}Pies{/}
+UI_20150317_000272	{@st59}Guantes{/}
+UI_20150317_000273	{@st59}Pantalones{/}
+UI_20150317_000274	{@st59}Calzado{/}
 UI_20150317_000275	{@st59}Mano Izquierda{/}
 UI_20150317_000276	{@st59}Mano Derecha{/}
 UI_20150317_000277	{@st59}Brazalete 1{/}
 UI_20150317_000278	{@st59}Brazalete 2{/}
-UI_20150317_000279	{@st59}Brazal{/} /////Sé que se parece demasiado a Brazalete, pero es la única traducción posible de Armband.
+UI_20150317_000279	{@st59}Brazal{/}
 UI_20150317_000280	{@st59}Buscar{/}
 UI_20150317_000281	Peso
 UI_20150317_000282	{memo X}{@st43}Mejora del Equipo{/}
 UI_20150317_000283	{@st59}Cerrar la ventana de Reparación de Objeto{/}
-UI_20150317_000284	{memo X}{@st42}Disponible para Mejora /////Como traducimos Buff?
+UI_20150317_000284	{memo X}{@st42}Mejora disponible
 UI_20150317_000285	{memo X}{@st42}Consumir{/}
 UI_20150317_000286	{memo X}{@st42}Correr
 UI_20150317_000287	{memo X}{@st42}Objetivo{/}
@@ -291,7 +291,7 @@ UI_20150317_000290	{@st42b}Mostrar sólo objetos disponibles{/} /////No existe p
 UI_20150317_000291	{@st59}Cerrar la ventana de Creación de Objeto{/}
 UI_20150317_000292	{@st43}{s22}Separar Objeto
 UI_20150317_000293	{@st59}Introducir una cantidad{/}
-UI_20150317_000294	Barra de PV del Enemigo
+UI_20150317_000294	Barra de HP del Enemigo
 UI_20150317_000295	{@st44}Objeto de Set adquirido{/}
 UI_20150317_000296	Guerrero del Teclado  /////WTF?
 UI_20150317_000297	Muertes
@@ -319,16 +319,16 @@ UI_20150317_000318	{@st59}Empezar la Creación de Objeto.{/}
 UI_20150317_000319	{@st44}Teclado{/}
 UI_20150317_000320	{@st42}Tiempo límite
 UI_20150317_000321	{@st56}Muerte{/}
-UI_20150317_000322	{@st56}Overkill{/} /////Rebasar? Exceso? No tengo idea.
-UI_20150317_000323	{@st56}Disparo{/}
+UI_20150317_000322	{@st56}Overkill{/}
+UI_20150317_000323	{@st56}Shot{/}
 UI_20150317_000324	{@st56}Muerto{/}
 UI_20150317_000325	Poder de Hechizo
 UI_20150317_000326	Defensa
 UI_20150317_000327	Resistencia Mágica
-UI_20150317_000328	Prob. de Crítico   /////Mejor Probabilidad de Crítico que Índice de Crítico no?
+UI_20150317_000328	Prob. de Crítico
 UI_20150317_000329	${@st43}Ranura{/}
 UI_20150317_000330	{@st59}Cerrar Gestión de Ranuras{/}
-UI_20150317_000331	Porfavor introduce tus objetos
+UI_20150317_000331	Por favor introduce tus objetos
 UI_20150317_000332	Potencial
 UI_20150317_000333	{memo X}Coste de Ranura adicional : {#ff9933}%s{/}{nl}Coste de extracción de Gema : {#ff9933}%s{/}
 UI_20150317_000334	{@st41b}Añadir Ranura
