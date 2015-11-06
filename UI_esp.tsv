@@ -127,9 +127,9 @@ UI_20150317_000126	{memo X}{s16}{b}ea
 UI_20150317_000127	{s16}{b}Selecciona el area deseada
 UI_20150317_000128	{s18}{b}Mirar Minimapa{/}
 UI_20150317_000129	{@st41b}Lista de Herramientas{/}
-UI_20150317_000130	{@st59b}Collección {nl}{@st59s}- Compra el Set de Colección para agregar objetos collecionables a tu colección . {nl} - Se activará el hotkey de colección cuando uses un objeto del Set. {nl} {/}
+UI_20150317_000130	{@st59b}Collección {nl}{@st59s}- Compra el Set de Colección para agregar objetos coleccionables a tu colección . {nl} - Se activará el hotkey de colección cuando uses un objeto del Set. {nl} {/}
 UI_20150317_000131	{@st59}Cerrar Información de Colección{/}
-UI_20150317_000132	{@st43}Collección{/}
+UI_20150317_000132	{@st43}Colección{/}
 UI_20150317_000133	{@st43}Spray de Color{/}
 UI_20150317_000134	{@st49}Spray de Color{/}
 UI_20150317_000135	{@st49}Color{/}
