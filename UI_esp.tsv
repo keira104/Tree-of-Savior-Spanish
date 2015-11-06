@@ -102,7 +102,7 @@ UI_20150317_000101	{@st59}Susurro (/w chat del nombre del grupo){/}
 UI_20150317_000102	{@st59}Ajustar ventana de chat{/}
 UI_20150317_000103	{@st43}{s22}Atajo para el chat {/}
 UI_20150317_000104	{@st43}Atajo{/}
-UI_20150317_000105	{@st59b}Atajo {nl} {@st59s} - Cómo usar: {nl} 1. Arrastra el emoticón a cualquier slot de emoticón debajo . {nl} 2. Escribe tu frase y guárdala. {nl} 3. Usa la tecla de atajo para decir tu frase y usar el emoticón simultáneamente. {/}
+UI_20150317_000105	{@st59b}Atajo {nl} {@st59s} - Cómo usar: {nl} 1. Arrastra el emoticón a cualquier espacio para emoticón debajo . {nl} 2. Escribe tu frase y guárdala. {nl} 3. Usa la tecla de atajo para decir tu frase y usar el emoticón simultáneamente. {/}
 UI_20150317_000106	{@st59}Cerrar atajo{/}
 UI_20150317_000107	{@st41b}Guardar {/}
 UI_20150317_000108	{@st59}Guarda tus cambios{/}
