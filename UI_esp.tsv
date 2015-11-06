@@ -90,19 +90,19 @@ UI_20150317_000089
 UI_20150317_000090	
 UI_20150317_000091	
 UI_20150317_000092	A. WWWWWWWW y 1 más
-UI_20150317_000093	{memo X}General: /s chat {nl} Gritar: /y chat {nl} Equipo: /p chat{nl} Susurro: /w chat del nombre de usuario
-UI_20150317_000094	{@st41}Chat completo{/}
+UI_20150317_000093	{memo X}General: /s chat {nl} Alarido: /y chat {nl} Equipo: /p chat{nl} Susurro: /w chat del nombre de usuario
+UI_20150317_000094	{@st41}Chat Completo{/}
 UI_20150317_000095	{@59}Salir{/}
 UI_20150317_000096	{@59}Invitar{/}
 UI_20150317_000097	{@st59}Todo{/}
 UI_20150317_000098	{@st59}Normal (/s chat){/}
-UI_20150317_000099	{@st59}Gritar (/y chat){/}
+UI_20150317_000099	{@st59}Alarido (/y chat){/}
 UI_20150317_000100	{@st59}Equipo (/p chat){/}
 UI_20150317_000101	{@st59}Susurro (/w chat del nombre del grupo){/}
 UI_20150317_000102	{@st59}Ajustar ventana de chat{/}
 UI_20150317_000103	{@st43}{s22}Atajo para el chat {/}
 UI_20150317_000104	{@st43}Atajo{/}
-UI_20150317_000105	{@st59b}Atajo {nl} {@st59s} - Como usar: {nl} 1. Arrastra el emoticón a cualquier slot de emoticón debajo . {nl} 2. Escribe tu frase y guardala. {nl} 3. Usa la tecla de atajo para decir tu frase y usar el emoticón simultaneamente. {/}
+UI_20150317_000105	{@st59b}Atajo {nl} {@st59s} - Cómo usar: {nl} 1. Arrastra el emoticón a cualquier slot de emoticón debajo . {nl} 2. Escribe tu frase y guárdala. {nl} 3. Usa la tecla de atajo para decir tu frase y usar el emoticón simultáneamente. {/}
 UI_20150317_000106	{@st59}Cerrar atajo{/}
 UI_20150317_000107	{@st41b}Guardar {/}
 UI_20150317_000108	{@st59}Guarda tus cambios{/}
@@ -111,7 +111,7 @@ UI_20150317_000110	{@st59}Cancela tus cambios{/}
 UI_20150317_000111	{@st42}Opciones del Chat
 UI_20150317_000112	{@st42}Transparencia
 UI_20150317_000113	Mostrar ventana del chat
-UI_20150317_000114	Mostrar gritos arriba
+UI_20150317_000114	Mostrar alaridos arriba
 UI_20150317_000115	{@st43}Lista de Cheats{/}
 UI_20150317_000116	{memo X}{@st42b}Objeto{/}
 UI_20150317_000117	{memo X}{@st42b}Enemigo{/}
