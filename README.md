@@ -4,12 +4,12 @@ Welcome to the Spanish translation of Tree of Savior. Please enjoy your stay. We
 Now translating: User Interface file. (UI_esp.tsv) <br>
 
 1° file - Dylan - Status: Not finished.<br>
-2° file - Marin - Status: Not finished.<br>
+2° file - Marin - Status: Finished.<br>
 3° file - Maria - Status: Not finihsed <br>
 4° file - Faerie - Status: Not finished <br>
 5° file - Geraru - Status: Finished <br>
 6° file - Geraru - Status: Not finished <br>
-7° file - Status: Not taken <br>
+7° file - Marin - Status: Not Finished <br>
 8° file - Status: Not taken <br>
 9° file - Status: Not taken <br>
 10° file - Status: Not taken <br>
