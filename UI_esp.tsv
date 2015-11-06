@@ -89,96 +89,96 @@ UI_20150317_000088
 UI_20150317_000089	
 UI_20150317_000090	
 UI_20150317_000091	
-UI_20150317_000092	
-UI_20150317_000093	
-UI_20150317_000094	
-UI_20150317_000095	
-UI_20150317_000096	
-UI_20150317_000097	
-UI_20150317_000098	
-UI_20150317_000099	
-UI_20150317_000100	
-UI_20150317_000101	
-UI_20150317_000102	
-UI_20150317_000103	
-UI_20150317_000104	
-UI_20150317_000105	
-UI_20150317_000106	
-UI_20150317_000107	
-UI_20150317_000108	
-UI_20150317_000109	
-UI_20150317_000110	
-UI_20150317_000111	
-UI_20150317_000112	
-UI_20150317_000113	
-UI_20150317_000114	
-UI_20150317_000115	
-UI_20150317_000116	
-UI_20150317_000117	
-UI_20150317_000118	
-UI_20150317_000119	
-UI_20150317_000120	
-UI_20150317_000121	
-UI_20150317_000122	
-UI_20150317_000123	
-UI_20150317_000124	
-UI_20150317_000125	
-UI_20150317_000126	
-UI_20150317_000127	
-UI_20150317_000128	
-UI_20150317_000129	
-UI_20150317_000130	
-UI_20150317_000131	
-UI_20150317_000132	
-UI_20150317_000133	
-UI_20150317_000134	
-UI_20150317_000135	
-UI_20150317_000136	
-UI_20150317_000137	
-UI_20150317_000138	
-UI_20150317_000139	
-UI_20150317_000140	
-UI_20150317_000141	
-UI_20150317_000142	
-UI_20150317_000143	
-UI_20150317_000144	
-UI_20150317_000145	
-UI_20150317_000146	
-UI_20150317_000147	
-UI_20150317_000148	
-UI_20150317_000149	
-UI_20150317_000150	
-UI_20150317_000151	
-UI_20150317_000152	
-UI_20150317_000153	
-UI_20150317_000154	
-UI_20150317_000155	
-UI_20150317_000156	
-UI_20150317_000157	
-UI_20150317_000158	
-UI_20150317_000159	
-UI_20150317_000160	
-UI_20150317_000161	
-UI_20150317_000162	
-UI_20150317_000163	
-UI_20150317_000164	
-UI_20150317_000165	
-UI_20150317_000166	
-UI_20150317_000167	
-UI_20150317_000168	
-UI_20150317_000169	
-UI_20150317_000170	
-UI_20150317_000171	
-UI_20150317_000172	
-UI_20150317_000173	
-UI_20150317_000174	
-UI_20150317_000175	
-UI_20150317_000176	
-UI_20150317_000177	
-UI_20150317_000178	
-UI_20150317_000179	
-UI_20150317_000180	
-UI_20150317_000181	
+UI_20150317_000092	A. WWWWWWWW y 1 más
+UI_20150317_000093	{memo X}General: /s chat {nl} Alarido: /y chat {nl} Equipo: /p chat{nl} Susurro: /w chat del nombre de usuario
+UI_20150317_000094	{@st41}Chat Completo{/}
+UI_20150317_000095	{@59}Salir{/}
+UI_20150317_000096	{@59}Invitar{/}
+UI_20150317_000097	{@st59}Todo{/}
+UI_20150317_000098	{@st59}Normal (/s chat){/}
+UI_20150317_000099	{@st59}Alarido (/y chat){/}
+UI_20150317_000100	{@st59}Equipo (/p chat){/}
+UI_20150317_000101	{@st59}Susurro (/w chat del nombre del grupo){/}
+UI_20150317_000102	{@st59}Ajustar ventana de chat{/}
+UI_20150317_000103	{@st43}{s22}Atajo para el chat {/}
+UI_20150317_000104	{@st43}Atajo{/}
+UI_20150317_000105	{@st59b}Atajo {nl} {@st59s} - Cómo usar: {nl} 1. Arrastra el emoticón a cualquier espacio para emoticón debajo . {nl} 2. Escribe tu frase y guárdala. {nl} 3. Usa la tecla de atajo para decir tu frase y usar el emoticón simultáneamente. {/}
+UI_20150317_000106	{@st59}Cerrar atajo{/}
+UI_20150317_000107	{@st41b}Guardar {/}
+UI_20150317_000108	{@st59}Guarda tus cambios{/}
+UI_20150317_000109	{@st41b}Cancelar {/}
+UI_20150317_000110	{@st59}Cancela tus cambios{/}
+UI_20150317_000111	{@st42}Opciones del Chat
+UI_20150317_000112	{@st42}Transparencia
+UI_20150317_000113	Mostrar ventana del chat
+UI_20150317_000114	Mostrar alaridos arriba
+UI_20150317_000115	{@st43}Lista de Cheats{/}
+UI_20150317_000116	{memo X}{@st42b}Objeto{/}
+UI_20150317_000117	{memo X}{@st42b}Enemigo{/}
+UI_20150317_000118	{memo X}{@st42b}Mover mapa{/}
+UI_20150317_000119	{memo X}{@st42b}Orden de combate{/}
+UI_20150317_000120	{@st41b}Cerrar{/}
+UI_20150317_000121	{s16}{b}Crea objetos clickeando en el botón de Crear o con doble-click
+UI_20150317_000122	{memo X}{s16}{b}ea
+UI_20150317_000123	{memo X}{s16}{b}Nv.
+UI_20150317_000124	{@st41b}Buscar{/}
+UI_20150317_000125	{s16}{b}Invoca criaturas clickeando en el botón de Crear o con doble-click
+UI_20150317_000126	{memo X}{s16}{b}ea
+UI_20150317_000127	{s16}{b}Selecciona el area deseada
+UI_20150317_000128	{s18}{b}Mirar Minimapa{/}
+UI_20150317_000129	{@st41b}Lista de Herramientas{/}
+UI_20150317_000130	{@st59b}Collección {nl}{@st59s}- Compra el Set de Colección para agregar objetos collecionables a tu colección . {nl} - Se activará el hotkey de colección cuando uses un objeto del Set. {nl} {/}
+UI_20150317_000131	{@st59}Cerrar Información de Colección{/}
+UI_20150317_000132	{@st43}Collección{/}
+UI_20150317_000133	{@st43}Spray de Color{/}
+UI_20150317_000134	{@st49}Spray de Color{/}
+UI_20150317_000135	{@st49}Color{/}
+UI_20150317_000136	{@st49}Quedan{/}
+UI_20150317_000137	{@st49}Pincel{/}
+UI_20150317_000138	{@st49}{a END_EDIT_SPRAY}Dibujar{/}{/}
+UI_20150317_000139	{@st49}{a SAVE_EDIT_SPRAY}Guardar{/}{/}
+UI_20150317_000140	{@st49}{a LOAD_EDIT_SPRAY}Importar{/}{/}
+UI_20150317_000141	{@st49}Cerrar{/}
+UI_20150317_000142	{@st43} Adopción de Compañero
+UI_20150317_000143	{@st59} Escribe un nombre para tu nuevo Compañero{/}
+UI_20150317_000144	{@st41b}Nombre{/}
+UI_20150317_000145	{@st41b}Precio %s{/}
+UI_20150317_000146	{@st59}Cerrar ventana de Adopción de Compañero {/}
+UI_20150317_000147	{@st41b}Adoptar
+UI_20150317_000148	{@st59}Confirmar Adopción {/}
+UI_20150317_000149	{@st43}Tienda de Compañeros
+UI_20150317_000150	{@st59}Cierra la Tienda de Compañeros{/}
+UI_20150317_000151	{@st43}Otra Información del Personaje{/}{@st42}
+UI_20150317_000152	{@st59}Cerrar la Información del Personaje{/}
+UI_20150317_000153	{@st41b}Información
+UI_20150317_000154	{@st41b}Récord
+UI_20150317_000155	Nombre de Equipo
+UI_20150317_000156	Nombre de Personaje
+UI_20150317_000157	Ciclo {#ffff00}%s{/} %s Nv. {#ffff00}%s{/}
+UI_20150317_000158	Guerrero
+UI_20150317_000159	{memo X}Índice de Aventura {#ffff00}%s{/} (Rango{#ffff00}%s{/}/%s)
+UI_20150317_000160	Índice de Aventura {#ffff00}%s{/} ({#ffff00}Sin Rango{/})
+UI_20150317_000161	Logros Totales : {#ffff00}%s{/}
+UI_20150317_000162	Opciones
+UI_20150317_000163	Borra el nombre de la pestaña para eliminarla
+UI_20150317_000164	{@st49}Todo{/}
+UI_20150317_000165	{@st49}Sistema{/}
+UI_20150317_000166	{@st49}Hablar{/}
+UI_20150317_000167	{@st49}Combate{/}
+UI_20150317_000168	{@st49}Objeto{/}
+UI_20150317_000169	{@st43}Créditos{/
+UI_20150317_000170	{memo X}{@st43}Opciones para Fijar Objetivo {/}
+UI_20150317_000171	Nombre de PNJ
+UI_20150317_000172	Comparación
+UI_20150317_000173	Ilustración
+UI_20150317_000174	Selecciona una conversación
+UI_20150317_000175	Ayuda en Texto
+UI_20150317_000176	{@st41}Creación de Objetos{/}
+UI_20150317_000177	{@st45tw2}Creando el Objeto...
+UI_20150317_000178	%r segundos
+UI_20150317_000179	{@st41}Cancelar{/}
+UI_20150317_000180	{@st45tw2}Cantidad{/}
+UI_20150317_000181	{@st45tw2}Deseas crear este objeto?
 UI_20150317_000182	
 UI_20150317_000183	
 UI_20150317_000184	
