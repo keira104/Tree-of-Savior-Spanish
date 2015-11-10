@@ -179,96 +179,95 @@ UI_20150317_000178	%r segundos
 UI_20150317_000179	{@st41}Cancelar{/}
 UI_20150317_000180	{@st45tw2}Cantidad{/}
 UI_20150317_000181	{@st45tw2}Deseas crear este objeto?
-UI_20150317_000182	
-UI_20150317_000183	
-UI_20150317_000184	
-UI_20150317_000185	
-UI_20150317_000186	
-UI_20150317_000187	
-UI_20150317_000188	
-UI_20150317_000189	
-UI_20150317_000190	
-UI_20150317_000191	
-UI_20150317_000192	
-UI_20150317_000193	
-UI_20150317_000194	
-UI_20150317_000195	
-UI_20150317_000196	
-UI_20150317_000197	
-UI_20150317_000198	
-UI_20150317_000199	
-UI_20150317_000200	
-UI_20150317_000201	
-UI_20150317_000202	
-UI_20150317_000203	
-UI_20150317_000204	
-UI_20150317_000205	
-UI_20150317_000206	
-UI_20150317_000207	
-UI_20150317_000208	
-UI_20150317_000209	
-UI_20150317_000210	
-UI_20150317_000211	
-UI_20150317_000212	
-UI_20150317_000213	
-UI_20150317_000214	
-UI_20150317_000215	
-UI_20150317_000216	
-UI_20150317_000217	
-UI_20150317_000218	
-UI_20150317_000219	
-UI_20150317_000220	
-UI_20150317_000221	
-UI_20150317_000222	
-UI_20150317_000223	
-UI_20150317_000224	
-UI_20150317_000225	
-UI_20150317_000226	
-UI_20150317_000227	
-UI_20150317_000228	
-UI_20150317_000229	
-UI_20150317_000230	
-UI_20150317_000231	
-UI_20150317_000232	
-UI_20150317_000233	
-UI_20150317_000234	
-UI_20150317_000235	
-UI_20150317_000236	
-UI_20150317_000237	
-UI_20150317_000238	
-UI_20150317_000239	
-UI_20150317_000240	
-UI_20150317_000241	
-UI_20150317_000242	
-UI_20150317_000243	
-UI_20150317_000244	
-UI_20150317_000245	
-UI_20150317_000246	
-UI_20150317_000247	
-UI_20150317_000248	
-UI_20150317_000249	
-UI_20150317_000250	
-UI_20150317_000251	
-UI_20150317_000252	
-UI_20150317_000253	
-UI_20150317_000254	
-UI_20150317_000255	
-UI_20150317_000256	
-UI_20150317_000257	
-UI_20150317_000258	
-UI_20150317_000259	
-UI_20150317_000260	
-UI_20150317_000261	
-UI_20150317_000262	
-UI_20150317_000263	
-UI_20150317_000264	
-UI_20150317_000265	
-UI_20150317_000266	
-UI_20150317_000267	
-UI_20150317_000268	
-UI_20150317_000269	
-UI_20150317_000270	
-UI_20150317_000271	
+UI_20150317_000183	Información de misión
+UI_20150317_000184	{@st59}Cancelar Intercambio{/}
+UI_20150317_000185	{@st43}Intercambio Privado{/}
+UI_20150317_000186	Mi lista de Intercambio
+UI_20150317_000187	Plata : %s
+UI_20150317_000188	{memo X}Entrar
+UI_20150317_000189	{@st41}Aceptar
+UI_20150317_000190	{@st41}Confirmar
+UI_20150317_000191	Lista de Intercambio(%s) Otro Jugador
+UI_20150317_000192	Nombres de Otros Jugadores
+UI_20150317_000193	{s18}{ol} {gr gradation1}Evento de Campo{/}
+UI_20150317_000194	{s20}{ol}Derrota a la Tribu Vubbe! Te gustaría unirte?
+UI_20150317_000195	{s20}{ol}%s Te gustaría unirte?
+UI_20150317_000196	{s20}{ol}Participantes : (1/5)
+UI_20150317_000197	{s20}{ol}Participantes : (%s/%s)
+UI_20150317_000198	{s20}{ol}El juego comenzará después de 1 segundo.
+UI_20150317_000199	{s20}{ol}El juego comenzará después de %s segundos.
+UI_20150317_000200	No mostrar esto más por hoy.
+UI_20150317_000201	No mostrar Eventos de Campo.
+UI_20150317_000202	Unirse al Juego
+UI_20150317_000203	Iniciar el juego con otros jugadores.
+UI_20150317_000204	Rechazar invitación de juego.
+UI_20150317_000205	Spray Presets*
+UI_20150317_000206	{@st49}Seleccionar{/}
+UI_20150317_000207	{@st49}Cancelar{/}
+UI_20150317_000208	{@st49}Eliminar{/}
+UI_20150317_000209	Introduce un nombre para el archivo a guardar.
+UI_20150317_000210	{@st43}Amigos
+UI_20150317_000211	{@st59}Cerra Lista de Amigos{/}
+UI_20150317_000212	{@st59b}Amigo{nl}{@st59s} - Conviértete en amigos con otros jugadores en el juego. {nl} - Puedes comprobar el estado de tus amigos a través de la ventana de la Lista de Amigos. {nl} - En la ventana Administrar, puedes invitar, rechazar o bloquear a tus amigos. {/}
+UI_20150317_000213	{@st41b}Mostrar amigos en línea{/}
+UI_20150317_000214	{@st41b}Lista
+UI_20150317_000215	{@st41b}Administrar
+UI_20150317_000216	{@st41b}Enviar petición de Amigo 
+UI_20150317_000217	{@st41b}Bloquear
+UI_20150317_000218	{@st59}Buscar{/}
+UI_20150317_000219	{@st44}Gremio{/}
+UI_20150317_000220	Gremio
+UI_20150317_000221	Lista
+UI_20150317_000222	Noticias
+UI_20150317_000223	Mision de Gremio
+UI_20150317_000224	Miembros en Linea
+UI_20150317_000225	{@st44}Crear Gremio{/}
+UI_20150317_000226	{@st42}Crear{/}
+UI_20150317_000227	{@st42}Cerrar{/}
+UI_20150317_000228	{@st42}Todos{/}
+UI_20150317_000229	{@st42}Ranking de Hoy{/}
+UI_20150317_000230	{@st42}Ranking Semanal{/}
+UI_20150317_000231	{@st56}Rango {/}
+UI_20150317_000232	{@st56}Puntos{/}
+UI_20150317_000233	{@st56}Clase{/}
+UI_20150317_000234	{@st56}Nombre {/}
+UI_20150317_000235	Pagina Anterior
+UI_20150317_000236	Pagina Siguiente
+UI_20150317_000237	{@st42}Buscar ID{/}
+UI_20150317_000238	Introduce el ID a buscar
+UI_20150317_000239	Cerrar Salón de la Fama
+UI_20150317_000240	Introduce el ID a buscar
+UI_20150317_000241	{memo X}{@st59} Stamina* {/}
+UI_20150317_000242	{@st43Lista de Ayuda{/}
+UI_20150317_000243	{@st59}Cerrar Ventana de Lista de Ayuda{/}
+UI_20150317_000244	{@st59b}Lista de Ayuda{nl}{@st59s} - Si necesitas ayuda con algo, simpre puedes leer la Temas de Ayuda {nl} - Escoge un tema para ver más información al respecto. {/}
+UI_20150317_000245	{@st43}{s22}Ayuda{/}
+UI_20150317_000246	{@st47_b}{b}Temas de Ayuda{/}
+UI_20150317_000247	{@st42b}Contenidos de Ayuda simples{/}
+UI_20150317_000248	{@st59}Ver detalles{/}
+UI_20150317_000249	Por favor, introduzca una cantidad
+UI_20150317_000250	{@st59}Introduzca el contenido{/}
+UI_20150317_000251	{@st41b}Confirmar
+UI_20150317_000252	{@st59}Confirmar {/}
+UI_20150317_000253	{@st41b}Cerrar
+UI_20150317_000254	{@st59}Cancelar {/}
+UI_20150317_000255	{@st43}Teleportación{/}
+UI_20150317_000256	{@st59}Cerrar Ventana de Teleportación{/}
+UI_20150317_000257	{@st59b}Teleportación{nl}{@st59s} -Te permite viajar rápidamente a las regiones que ya has visitado. {nl} - Esta Función se activa cuando dos o más puntos de teleportación están disponibles. {nl} {/}
+UI_20150317_000258	{@st41}Localización actual : %s{/}
+UI_20150317_000259	{@st43}{s22}Teleportación{/}
+UI_20150317_000260	{@st41b}Quieres desplazarse a esta área?{/}
+UI_20150317_000261	Qué hay de Siauliai
+UI_20150317_000262	Monedas Consumidas : 0
+UI_20150317_000263	Introducción
+UI_20150317_000264	{@st43}Inventario{/}
+UI_20150317_000265	{@st59}Cerrar Inventario{/}
+UI_20150317_000266	{memo X}{@st59b}Equipo {nl} {@st59s}- Peinado/Traje: Equipo para cambiar la apariencia del personaje. {nl} - Arma: Puedes equipar armas de una mano o dos manos {nl} (Arma secundaria/Escudo puede ser equipado con un arma con una sola mano) {nl} - Armadura: Pechera, Pantalones, Guantes, Calzado. {nl} - Accesorios: Puedes equipar 1 Collar y 2 Brazaletes. {nl} {/}
+UI_20150317_000267	{@st59}Corte de Pelo 1{/}
+UI_20150317_000268	{@st59}Corte de Pelo 2{/}
+UI_20150317_000269	{@st59}Collar{/}
+UI_20150317_000270	{@st59}Traje{/}
+UI_20150317_000271	{@st59}Pechera{/}	
 UI_20150317_000272	{@st59}Guantes{/}
 UI_20150317_000273	{@st59}Pantalones{/}
 UI_20150317_000274	{@st59}Calzado{/}
